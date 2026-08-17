@@ -14,7 +14,7 @@ The app is designed for a rural Highland estate where mobile signal is unreliabl
 | Interactive map | Pinch, pan and animated zoom over the estate map |
 | Information pages | Markdown-rendered content on visiting, admission, accommodation, dining and copyright |
 
-## The interesting problem: one video, six narrations
+## One video, six narrations
 
 Shipping a separate video for every language would have multiplied the bundle size by six. Instead the app ships **one silent video per tour** and **one audio narration per language**, and combines them at playback time.
 
